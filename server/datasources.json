@@ -1,0 +1,12 @@
+{
+  "db": {
+    "host": "admin:zxcASD11@ds115963.mlab.com",
+    "port": 27017,
+    "url": "mongodb://admin:zxcASD11@ds115963.mlab.com:15963/pokemondb",
+    "database": "pokemon-app",
+    "password": "zxcASD11",
+    "name": "db",
+    "user": "admin",
+    "connector": "mongodb"
+  }
+}
